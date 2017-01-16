@@ -69,18 +69,20 @@ h2 {
 }
 
 #about h1{
+    font-size: 70px;
     color: white;
     padding-top: 0px;
     margin-top: 0px;
-    background-color: #3A3C40;
+    background-color: black;
 }
 
 #about h2 {
     margin-top: 0px;
     color: white;
-    background-color: #3A3C40;
+    background-color: black;
 }
 
 #about p {
     color: black;
 }
+
