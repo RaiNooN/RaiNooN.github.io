@@ -1,9 +1,5 @@
 #index { 
-  background: url(../img/rain.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: #f78c58;
 }
 
 body {
@@ -70,7 +66,7 @@ h2 {
 
 #about h1{
     font-size: 70px;
-    color: white;
+    color: #f78c58;
     padding-top: 0px;
     margin-top: 0px;
     background-color: black;
@@ -78,7 +74,7 @@ h2 {
 
 #about h2 {
     margin-top: 0px;
-    color: white;
+    color: #f78c58;
     background-color: black;
 }
 
