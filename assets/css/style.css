@@ -30,7 +30,7 @@ nav {
 }
 
 .navbar {
-    color: black;
+    color: white;
     font-size: 20px;
     margin-left: 130px;
     text-decoration: none;
@@ -46,7 +46,7 @@ span {
 
 h1 {
     font-size: 80px;
-    color: black;
+    color: white;
     text-align: center;
     clear: both;
     padding-top: 300px;
@@ -54,7 +54,7 @@ h1 {
 
 h2 {
     font-size: 36px;
-    color: black;
+    color: white;
     text-align: center;
     clear: both;
     margin-top: -60px;
