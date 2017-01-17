@@ -1,11 +1,29 @@
 #index { 
-  background-color: #f78c58;
+    background-color: #f78c58;
 }
 
 body {
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
 }
+
+img {
+    width: 50%;
+    height: auto;
+}
+
+.mainfooter {
+    width: 100%;
+    background-color: black;
+    margin: 15% 0;
+    margin-bottom: 0%;
+}
+
+.mainfooter p {
+    margin: 3% auto;
+    color: #f78c58;
+}
+
 
 @media screen and (min-width: 1000px) {
     #container {
@@ -26,7 +44,7 @@ nav {
 }
 
 .navbar {
-    color: white;
+    color: black;
     font-size: 20px;
     margin-left: 130px;
     text-decoration: none;
@@ -42,7 +60,7 @@ span {
 
 h1 {
     font-size: 80px;
-    color: white;
+    color: black;
     text-align: center;
     clear: both;
     padding-top: 300px;
@@ -50,7 +68,7 @@ h1 {
 
 h2 {
     font-size: 36px;
-    color: white;
+    color: black;
     text-align: center;
     clear: both;
     margin-top: -60px;
@@ -61,15 +79,14 @@ h2 {
 }
 
 #mainPage h2 {
-    color: white;
+    color: black;
 }
 
 #about h1{
     font-size: 70px;
-    color: #f78c58;
+    color: black;
     padding-top: 0px;
-    margin-top: 0px;
-    background-color: black;
+    margin-top: 30px;
 }
 
 #about h2 {
@@ -79,7 +96,54 @@ h2 {
 }
 
 #about p {
-    color: black;
+    color:;
 }
 
+#re h1{
+    font-size: 70px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 20px;
+}
+
+#re h2 {
+    margin-top: 0px;
+    color: #f78c58;
+    background-color: black;
+}
+
+#re p {
+    color: ;
+    text-align: center;
+}
+
+#aft {
+    color: #f78c58;
+}
+
+#acc h1{
+    font-size: 70px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 30px;
+}
+
+#acc h2 {
+    margin-top: 0px;
+    color: #f78c58;
+    background-color: black;
+}
+
+#mw h1{
+    font-size: 70px;
+    color: black;
+    padding-top: 0px;
+    margin-top: 30px;
+}
+
+#mw h2 {
+    margin-top: 0px;
+    color: #f78c58;
+    background-color: black;
+}
 
